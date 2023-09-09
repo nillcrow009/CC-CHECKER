@@ -1,5 +1,8 @@
 # zby
- PHP CC CHECKER TELEGRAM BOT
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberXBD&repo=zby)
+
+PHP CC CHECKER TELEGRAM BOT
 Free cc checker bot https://t.me/NXDD_Bot
 
 JOIN FOR MORE BOT https://t.me/NXDDUpdates
